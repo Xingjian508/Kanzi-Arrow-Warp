@@ -8,9 +8,15 @@ I wrote a graphic warping algorithm using GLSL and C++ within the Kanzi Studio e
 
 - Accurate graphic warping and projection of navigation arrow onto road imagery.
 - Bezier curve integration to enhance warping precision and realism.
+- Used C++ to generate coordinates, stored in a "log" file, that represents generated and "warped" coordinates, while using GLSL to implement the actual program in Kanzi.
 
 ### Prerequisites
 
 - Kanzi Studio environment
 - C++ compiler
 - OpenGL support
+
+## Demonstration
+
+- Asked GPT for a python file to graph the C++ simulation results. Sample: ![demonstration](/Plotting/plots/0.5_plot.png "demonstration")
+- Visual results for the GLSL implementation in the Demo directory.
