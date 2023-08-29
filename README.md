@@ -1,4 +1,4 @@
-# Kanzi-Arrow-Warp： Graphic Warping Algorithm using GLSL & C++
+# Kanzi-Arrow-Warp：Graphic Warping Algorithm using GLSL & C++
 
 A warping algorithm for sending a single point from a projection arrow to its warped location, simulated in Kanzi engine and run on GPU, for individual points in parallel.
 
