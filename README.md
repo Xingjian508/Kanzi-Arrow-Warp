@@ -18,7 +18,7 @@ I wrote a graphic warping algorithm using GLSL and C++ within the Kanzi Studio e
 
 ## Demonstration
 
-- Asked GPT for a python file to graph the C++ simulation results. Sample: ![demonstration](/Plotting/plots/start_plot.png "demonstration") ![demonstration](/Plotting/plots/fix2_plot.png "demonstration")
+- Asked GPT for a python script to plot my C++ simulation results. Sample: ![demonstration](/Plotting/plots/start_plot.png "demonstration") ![demonstration](/Plotting/plots/fix2_plot.png "demonstration")
 - Visual results for the GLSL implementation in the Demo directory.
 ![demonstration](/Demo/demo_arrow1.png "demonstration")
 ![demonstration](/Demo/demo_arrow2.png "demonstration")
